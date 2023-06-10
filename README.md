@@ -2,6 +2,10 @@
 
 [Live Link](https://pwskill-clone.netlify.app/)
 
+## Here is my Output
+
+![PWSKILL CLONE](./myoutput.png.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
